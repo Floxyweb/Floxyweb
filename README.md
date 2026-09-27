@@ -13,6 +13,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-9aea-11eb-9e52-5f230234ae5e.gif" width="100%" />
 
+</div>
+
+<div align="left">
+
 ### 👑 `whoami` — Not Just Another Dev
 
 ```js
